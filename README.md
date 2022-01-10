@@ -16,10 +16,10 @@
  > - but the deployed contract will have 3 ether. 
  > - because we are only tracking the balance internally using "balance" mapping.	
 
- Migrate:
- > - truffle(development)> truffle console
- > - truffle(development)> migrate --reset
-
+Migrate (run from the terminal and make sure your Ganache is open) :
+> - D:\blockchain\payableTruffleProject> truffle console (only if you are not in the console yet)
+> - truffle(development)> migrate --reset (only use migrate if this is your first time) 
+> 
       Compiling your contracts...
       ===========================
       > Compiling .\contracts\Bank.sol
