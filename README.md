@@ -1,6 +1,6 @@
 # payableTruffleProject 
 
-A simply smart contract to demonstrate :
+## A simply smart contract to demonstrate :
 > - payable, allowing a function to receive money.      
 > - transfer        
  
